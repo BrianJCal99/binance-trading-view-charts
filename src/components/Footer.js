@@ -8,10 +8,10 @@ export default function Footer() {
                     <div className="text-gray-600 text-xs uppercase tracking-widest leading-relaxed">
                         <p className="mb-2">© 2025 CRYPCOIN</p>
                         <p className="mb-1">
-                            DATA STREAM: <span className="text-black font-bold">BINANCE API</span>
+                            DATA STREAM: <span className="text-black font-bold">BINANCE WEBSOCKET API</span>
                         </p>
                         <p className="mb-3">
-                            MARKET CHARTS: <span className="text-black font-bold">TRADINGVIEW LIGHTWEIGHT</span>
+                            MARKET CHARTS: <span className="text-black font-bold">TRADINGVIEW LIGHTWEIGHT CHARTS</span>
                         </p>
                     </div>
                 </div>
